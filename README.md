@@ -1,7 +1,7 @@
 # Hola Soy Neifer
 <img src="https://i.postimg.cc/zGBkhDHG/El-texto-del-p-rrafo.png" alt="Mokkapps GitHub README header image">
 
-## Sobre MI
+## Sobre Mi
 <p>Soy un desarrollador backend apasionado por construir sistemas eficientes y escalables con Golang. Me encanta optimizar código, diseñar arquitecturas limpias y aprender algo nuevo cada día.</p>
 
 ## Tecnologías Principales
